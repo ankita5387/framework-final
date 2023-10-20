@@ -1,0 +1,6 @@
+<suite name="PROJECTNAME">
+<suite-files>
+<suite-file path="src/test/java/biz/testexecution/module1.xml"></suite-file>
+<suite-file path="src/test/java/biz/testexecution/module2.xml"></suite-file>
+</suite-files>>
+</suite>

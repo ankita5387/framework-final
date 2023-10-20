@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-20T13:12:17 IST" name="Default suite" finished-at="2023-10-20T13:12:51 IST" duration-ms="34505">
+    <groups>
+    </groups>
+    <test started-at="2023-10-20T13:12:17 IST" name="Default test" finished-at="2023-10-20T13:12:51 IST" duration-ms="34505">
+      <class name="biz.module2.searchproduct">
+        <test-method is-config="true" signature="setup()[pri:0, instance:biz.module2.searchproduct@1151e434]" started-at="2023-10-20T13:12:17 IST" name="setup" finished-at="2023-10-20T13:12:50 IST" duration-ms="33772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testsearchproduct()[pri:0, instance:biz.module2.searchproduct@1151e434]" started-at="2023-10-20T13:12:51 IST" name="testsearchproduct" finished-at="2023-10-20T13:12:51 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsearchproduct -->
+      </class> <!-- biz.module2.searchproduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

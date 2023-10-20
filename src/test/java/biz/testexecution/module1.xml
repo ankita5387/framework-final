@@ -1,0 +1,15 @@
+<suite name="module1:my account">
+
+<test name="validateuser">
+<classes>
+<class name="biz.module1.validateuser"></class>
+</classes>
+</test>
+
+<test name="searchproduct">
+<classes>
+<class name="biz.module1.selectspecificproduct"></class>
+</classes>>
+</test>
+
+</suite>
